@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.134.96.23:8081/repository/shadow-release/</url>
+	      <url>http://3.142.208.163:8081/repository/Rider-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.134.96.23:8081/repository/shadow-snapshot/</url>
+	      <url>http://3.142.208.163:8081/repository/Rider-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
